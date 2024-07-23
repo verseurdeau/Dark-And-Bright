@@ -1,0 +1,37 @@
+.container {
+  max-width: 1100px;
+}
+
+div .col-md-7{
+    background-color: #8b8b8b4b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;  
+}
+
+span {
+    color: #000000;
+}
+
+img {
+    width: 20px;
+}
+
+div .row g-5 {
+    padding-left: 5px;
+}
+
+div .col-md-5 {
+    background-color: #8b8b8b4b;
+    padding-left: 10px;
+}
+div [type=submit] {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+div [type=submit]:hover {
+    background-color: #0077ff;
+    color: #ffffff;
+}
